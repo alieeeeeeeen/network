@@ -9,9 +9,9 @@ There is three way to encrypt the data
 
 ## Addressing
 * IPV4
-    To distribute ip address in 32-bit addressing mechanism
+To distribute ip address in 32-bit addressing mechanism
 * IPV6
-    To distribute ip address in 128-bit addressing mechanism
+To distribute ip address in 128-bit addressing mechanism
 
 ## Transmist Data
 TCP/IP is reliable protocol to transmit the data.
