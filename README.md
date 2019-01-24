@@ -1,5 +1,5 @@
 # The Overview of Computer Network
-An simple overview of network.
+A simple overview of network.
 
 ## The security of Network
 There is three way to encrypt the data
